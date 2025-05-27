@@ -24,6 +24,10 @@ Welcome to my GitHub! Here you’ll find projects built with a passion for moder
 
 * **Bruno & Marrone**
 * **Guns N’ Roses**
+* **Zezé di Camargo e Luciano**
+* **Creedence Clearwater Revival**
+* **Jorge Ben Jor**
+
 
 ---
 

@@ -9,6 +9,9 @@ Welcome to my GitHub! Here you’ll find projects built with a passion for moder
 * 💻 Full-stack developer passionate about **React** and **Node.js**
 * 🎨 I love creating intuitive and responsive user interfaces
 * 🌱 Continuously learning new tools and best practices to deliver high-quality code
+* 🤖 I leverage AI tools (like GitHub Copilot and ChatGPT) extensively in my day-to-day workflow
+
+
 
 ---
 

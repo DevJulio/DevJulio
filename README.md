@@ -1,16 +1,42 @@
-## Hi there 👋
+```markdown
+# Hi there, I’m Júlio 👋
 
-<!--
-**DevJulio/DevJulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Here you’ll find projects built with a passion for modern interfaces and cutting-edge technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full-stack developer passionate about **React** and **Node.js**  
+- 🎨 I love creating intuitive and responsive user interfaces  
+- 🌱 Continuously learning new tools and best practices to deliver high-quality code  
+
+---
+
+## 🛠️ Technologies
+
+- **Front-end:** React (Hooks, Context API), HTML5, CSS3, Tailwind CSS  
+- **Back-end:** Node.js (Express, Fastify), REST APIs, SQL & NoSQL databases  
+- **Tools:** Git, Docker, VS Code, ESLint, Prettier  
+
+---
+
+ 
+
+---
+
+## 🎵 My Favorite Artists
+
+- **Bruno & Marrone**  
+- **Guns N’ Roses**  
+
+---
+
+## 📫 Get in Touch
+
+- 📧 juliofilhor@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliorsf)  
+- 🐙 [GitHub](https://github.com/DevJulio)  
+
+Thanks for visiting! 🌟
+```

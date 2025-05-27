@@ -17,9 +17,9 @@ Welcome to my GitHub! Here you’ll find projects built with a passion for moder
 
 ## 🛠️ Technologies
 
-* **Front-end:** React (Hooks, Context API), HTML5, CSS3, Tailwind CSS
+* **Front-end:** React (Hooks, Context API), HTML5, CSS3, Tailwind CSS, MUI
 * **Back-end:** Node.js (Express, Fastify), REST APIs, SQL & NoSQL databases
-* **Tools:** Git, Docker, VS Code, ESLint, Prettier
+* **Tools:** Git, Docker, VS Code, ESLint, Prettier, Cursor
 
 ---
 

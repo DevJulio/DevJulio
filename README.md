@@ -1,5 +1,3 @@
-Here’s your README **without** the triple-backtick fences—just save it as `README.md` in your repo and GitHub will render the markdown:
-
 # Hi there, I’m Júlio 👋
 
 Welcome to my GitHub! Here you’ll find projects built with a passion for modern interfaces and cutting-edge technology.
